@@ -215,10 +215,10 @@
         [UIView animateWithDuration:.3f animations:^{
             
             photo.frame = frame;
-            self.alpha = 0;
+            
             
         } completion:^(BOOL finished) {
-            
+            self.alpha = 0;
             [self removeFromSuperview];
             
         }];

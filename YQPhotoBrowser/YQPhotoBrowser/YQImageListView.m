@@ -40,7 +40,7 @@
     
     if (!_bigImageURLs) {
         
-        NSArray *tempUrls = @[@"http://v1.qzone.cc/pic/201303/18/16/55/5146d688ab554456.jpg!600x600.jpg",
+        NSArray *tempUrls = @[@"https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1463013720&di=e4dc5513dcbd2c116a11b17efac44e97&src=http://pic.qiantucdn.com/58pic/18/20/84/35258PICYiu_1024.jpg",
                               @"http://v1.qzone.cc/pic/201303/18/16/55/5146d688ab554456.jpg!600x600.jpg",
                               @"http://v1.qzone.cc/pic/201303/18/16/55/5146d688ab554456.jpg!600x600.jpg",
                               @"http://v1.qzone.cc/pic/201303/18/16/55/5146d688ab554456.jpg!600x600.jpg",
